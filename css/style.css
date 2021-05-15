@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+}
+.header{
+    overflow: hidden;
+}
+.logo{
+    width: 20%;
+    background-color: red;
+    height: 100px;
+    float: left;
+    text-align: center;
+}
+.logo h1{
+    color: white;
+}
+
+.menue{
+    width: 80%;
+    background-color: blue;
+    height: 100px;
+    float: left;
+    text-align: center;
+}
+.menue h1{
+    color: white;
+}
+.content{
+    overflow: hidden;
+}
+.main_content{
+    width: 70%;
+    height: 600px;
+    background-color: purple;
+    text-align: center;
+    float: left;
+}
+.main_content h1{
+    color: white;
+}
+.right_pannel{
+    width: 30%;
+    height: 600px;
+    background-color: violet;
+    text-align: center;
+    float: left;
+}
+.right_pannel h1{
+    color: white;
+
+}
+.pannel_one{
+    height: 100px;
+    background-color: red;
+    text-align: center;
+}
+.pannel_one h1{
+    color: white;
+}
+.pannel_two{
+    height: 100px;
+    background-color: green;
+    text-align: center;
+}
+.pannel_two h1{
+    color: white;
+}
+.pannel_three{
+    height: 100px;
+    background-color: blue;
+    text-align: center;
+}
+.pannel_three h1{
+    color: white;
+}
+.pannel_four{
+    height: 100px;
+    background-color: red;
+    text-align: center;
+}
+.pannel_four h1{
+    color: white;
+}
+.pannel_five{
+    height: 100px;
+    background-color: green;
+    text-align: center;
+}
+.pannel_five h1{
+    color: white;
+}
+.pannel_six{
+    height: 100px;
+    background-color: blue;
+    text-align: center;
+}
+.pannel_six h1{
+    color: white;
+}
+.footer{
+    height: 300px;
+    background-color: red;
+    text-align: center;
+}
+.footer h1{
+    color: white;
+
+}
